@@ -16,7 +16,7 @@ create table Estruturas (
 id int auto_increment primary key,
 horta_id int,
 tipo varchar(50),  -- Exemplos: 'vertical', 'horizontal'.
-foreign key (hora_id) references Hortas(id)
+foreign key (horta_id) references Hortas(id)
 );
 
 create table Plantas (
