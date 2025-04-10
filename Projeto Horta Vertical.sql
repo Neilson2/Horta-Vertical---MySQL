@@ -1,3 +1,6 @@
+create database HortaVertical;
+use HortaVertical;
+
 create table Usuarios (
 id int auto_increment primary key,
 nome varchar(100),
