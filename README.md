@@ -1,6 +1,16 @@
 # Horta-Vertical---MySQL
 Com o propósito de promover e desenvolver a sustentabilidade e a acessibilidade ao cultivo de alimentos frescos e saudáveis por meio da implementação de hortas verticais que otimizem o uso do espaço.
 
+WEBSITE - HORTA VERTICAL
+=
+Utilizado o programa "SUBLIME", seguindo dos códigos de HTML, CSS e uso do framework "Bootstrap". 
+
+
+
+Sistema Banco de Dados - HORTA VERTICAL
+=
+Programa utilizado "MySQL Workbench".
+
 1º Tabelas:
 =
 Relacionada aos usuários, representa diferentes hortas associadas a cada usuário.
