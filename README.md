@@ -10,6 +10,7 @@ Utilizado o programa "SUBLIME", seguindo dos códigos de HTML, CSS e uso do fram
 Sistema Banco de Dados - HORTA VERTICAL
 =
 Programa utilizado "MySQL Workbench".
+Programa utilizado "Xampp".
 
 1º Tabelas:
 =
