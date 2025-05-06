@@ -4,7 +4,7 @@ $username = "root";
 $password = "";
 $dbname = "HortaVertical";
 
-// Criando a conexão
+// Criando conexão
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 // Verificar a conexão
